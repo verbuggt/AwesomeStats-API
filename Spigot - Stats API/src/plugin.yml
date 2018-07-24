@@ -1,0 +1,9 @@
+name: AwesomeStats
+
+prefix: AwesomeStatsAPI
+
+main: net.exploit.statsapi.main.StatsAPI
+version: 0.0.1_alpha
+
+author: Felix | verbuqqt
+authors: []

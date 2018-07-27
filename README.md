@@ -11,4 +11,4 @@ Task-List
 - [x] UUIDFetcher (Credit to @github/Jofkos)
 - [x] LoginListener/StatsLoginListener
 - [x] Data-Management
-- [ ] TODO: Type-Specific getters
+- [x] Type-Specific getters

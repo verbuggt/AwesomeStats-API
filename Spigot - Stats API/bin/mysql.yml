@@ -1,0 +1,7 @@
+# Hello. stayhigh.
+
+hostname: localhost
+username: root
+database: stats
+password: password
+port: 3306

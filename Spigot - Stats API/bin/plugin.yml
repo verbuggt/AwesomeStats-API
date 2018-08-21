@@ -5,9 +5,10 @@ prefix: AwesomeStatsAPI
 main: net.exploit.statsapi.main.StatsAPI
 version: 0.0.6_beta
 
-author: Felix | verbuqqt
+author: 3xploit.net - Felix | verbuqqt
 authors: [Jofkos]
 
 commands:
   enablestats:
   disablestats:
+  coins:
